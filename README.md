@@ -1,4 +1,4 @@
-# 🧠 Git Hands-On: Clone, Merge, and Resolve Merge Conflicts
+git # 🧠 Git Hands-On: Clone, Merge, and Resolve Merge Conflicts
 
 This tutorial walks you through simulating a **merge conflict** and resolving it manually.
 
